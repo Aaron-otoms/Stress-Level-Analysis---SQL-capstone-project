@@ -25,7 +25,7 @@ Organizations often struggle to identify what's driving employee stress and whic
 - Exercise, meditation, and food-related coping were the most commonly used strategies, while walking and gardening were associated with the lowest average stress scores
 - Stress severity was roughly split across the workforce: about 40% mild, 40% moderate, and 20% severe
 - Employees aged 17-25 reported the highest average stress level scores, while older age groups reported comparatively lower scores.
-- Check the documentation files for more key findings and recommendations.
+- Check the [documentation file](Stress%20level%20project%20documentation.docx)for more key findings and recommendations.
 
 ## 📁 Repository Structure
 Stress-Level-Analysis---SQL-capstone-project/
